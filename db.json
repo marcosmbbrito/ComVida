@@ -1,11 +1,29 @@
 {
-  "posts": [
+  "occurrence": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "category_occurrence": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "post": {
     "name": "typicode"
-  }
+  },
+  "reports": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+   "report": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
 }
