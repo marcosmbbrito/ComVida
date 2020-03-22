@@ -1,8 +1,43 @@
-{
-  "occurrence": [
+"occurrence": [
     {
       "id": 1,
-      "title": "hello"
+      "tiltle": "tem febre + 38 grau",
+      "resposta":[
+        {
+          "id": 1,
+          "title": "Sim",
+      
+        },
+        {
+          "id": 2,
+          "title": "Não",
+      
+        },
+        {
+          "id": 3,
+          "title": "Não sei",
+      
+        }
+        
+      ]
+    },
+    {
+    "id": 2,
+    "tiltle": "Tipo de tose",
+      "resposta":[
+        {
+          "id": 4,
+          "title": "Seca",
+      
+        },
+        {
+          "id": 5,
+          "title": "Produtiva(Com catarro)",
+      
+        },
+       
+        
+      ]
     }
   ],
   "category_occurrence": [
