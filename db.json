@@ -1,36 +1,10 @@
-{
-    "occurrence": [
-    {
-      "id": 1,
-      "title": "tem febre + 38 grau"
-              
-     
+{"occurrence":[
+    { "id": 1,
+      "title": "tem febre + 38 grau"    
     },
     {
     "id": 2,
-    "title": "Tipo de tose"
-    
+    "title": "Tipo de tose"    
     },
-  ],
-  "category_occurrence": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "post": {
-    "name": "typicode"
-  },
-  "reports": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-   "report": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
   ]
 }
