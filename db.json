@@ -1,44 +1,41 @@
-"occurrence": [
+{
+    "occurrence": [
     {
       "id": 1,
-      "tiltle": "tem febre + 38 grau",
+      "title": "tem febre + 38 grau",
       "resposta":[
         {
           "id": 1,
-          "title": "Sim",
-      
+          "title": "Sim"
         },
         {
           "id": 2,
-          "title": "Não",
-      
+          "title": "Não"
         },
         {
           "id": 3,
-          "title": "Não sei",
-      
+          "title": "Não sei"
         }
         
       ]
     },
     {
     "id": 2,
-    "tiltle": "Tipo de tose",
-      "resposta":[
+    "title": "Tipo de tose",
+     "resposta":[
         {
           "id": 4,
-          "title": "Seca",
-      
+          "title": "Seca"
+  
         },
         {
           "id": 5,
-          "title": "Produtiva(Com catarro)",
+          "title": "Produtiva(Com catarro)"
       
-        },
-       
+        }
         
       ]
-    }
+    },
   ],
   "category_occurrence": [
     {
