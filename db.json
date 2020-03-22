@@ -3,21 +3,7 @@
     {
       "id": 1,
       "title": "tem febre + 38 grau",
-      "resposta":[
-        {
-          "id": 1,
-          "title": "Sim"
-        },
-        {
-          "id": 2,
-          "title": "Não"
-        },
-        {
-          "id": 3,
-          "title": "Não sei"
-        }
-        
-      ]
+  
     },
     {
     "id": 2,
