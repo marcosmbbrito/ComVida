@@ -1,7 +1,7 @@
 {"occurrence":[
     { "id": 1,
       "title": "tem febre + 38 grau",
-     "resposta":[
+     "resposta":"[
         {
           "id": 1,
           "title": "Sim"
@@ -14,12 +14,12 @@
           "id": 3,
           "title": "Não sei"
         }        
-      ]
+      ]"
     },
     {
     "id": 2,
     "title": "Tipo de tose" ,
-        "resposta":[
+        "resposta":"[
         {
           "id": 1,
           "title": "Sim"
@@ -32,7 +32,7 @@
           "id": 3,
           "title": "Não sei"
         }        
-      ]
+      ]"
     },
     
   ]
